@@ -24,7 +24,7 @@ nf-config --flibs
 If these commands are available, copy these results to `INC` and `LIB`.  
 `INSTALL` is the path to which you want to copy the executable file.  
 
-After makeing these settings, execute the Makefile
+After making these settings, execute the Makefile
 ```sh
 make
 make install
